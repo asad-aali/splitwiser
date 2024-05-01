@@ -1,6 +1,6 @@
 # Splitwiser | Efficient LLM Inference with Constrained Resources
 
-This repository hosts the official PyTorch implementation of Splitwiser using PyTorch Mullti-Processing (MP) and NVIDIA Multi-Processing Service (MPS) with Huggingface.
+This repository hosts the official PyTorch implementation of Splitwiser using PyTorch Mullti-Processing (MP) and NVIDIA Multi-Process Service (MPS) with Huggingface.
 
 <b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Melissa Capo, Adney Cardoza<be>
 
