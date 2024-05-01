@@ -2,7 +2,7 @@
 
 This repository hosts the official PyTorch implementation of Splitwiser.
 
-<br><b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Melissa Capo, Adney Cardoza<be>
+<b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Melissa Capo, Adney Cardoza<be>
 
 <b>Contact: </b>asad.aali@utexas.edu<br>
 
