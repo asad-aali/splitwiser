@@ -1,8 +1,14 @@
 # Splitwiser | Efficient LLM Inference with Constrained Resources
 
-<b>Authors: </b>[Asad Aali](https://asad-aali.github.io/), Melissa Capo, Adney Cardoza<br>
-
+This repository hosts the official PyTorch implementation of Splitwiser.
+<b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Melissa Capo, Adney Cardoza<br>
 <b>Contact: </b>asad.aali@utexas.edu<br>
+
+<center>
+
+![](figs/splitwiser_design.png)
+
+</center>
 
 Code written on top of the official implementation:<br>
 [RadAdapt: Radiology Report Summarization via Lightweight Domain Adaptation of Large Language Models](https://arxiv.org/pdf/2305.01146.pdf)<br>
