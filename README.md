@@ -4,19 +4,17 @@
 
 <b>Contact: </b>asad.aali@utexas.edu<br>
 
-Code written on top of the official implementation of:<br>
-- <b> Title: </b>[RadAdapt: Radiology Report Summarization via Lightweight
-Domain Adaptation of Large Language Models](https://arxiv.org/pdf/2305.01146.pdf)<br>
+Code written on top of the official implementation:<br>
+[RadAdapt: Radiology Report Summarization via Lightweight Domain Adaptation of Large Language Models](https://arxiv.org/pdf/2305.01146.pdf)<br>
 
 ## Environment
 Use these commands to set up a conda environment:
 ```
 conda env create -f env/environment.yml -n splitwiser
-conda activate radadapt
+conda activate splitwiser
 ```
 
 ## Usage
-
 1. In `src/constants.py`, set your own project directory `DIR_PROJECT`.
 2. Run a script, setting `model` and `case_id` as desired:
     - `run_discrete.sh`: discrete prompting output.
