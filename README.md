@@ -2,7 +2,7 @@
 
 Official PyTorch implementation for [Splitwiser | Efficient LLM Inference with Constrained Resources](https://asad-aali.github.io/assets/pdf/paper_splitwiser.pdf).
 
-<b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Melissa Capo, Adney Cardoza<be>
+<b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Adney Cardoza, Melissa Capo<be>
 
 <b>Contact: </b>asad.aali@utexas.edu<br>
 
