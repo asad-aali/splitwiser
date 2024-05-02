@@ -1,6 +1,6 @@
 # Splitwiser | Efficient LLM Inference with Constrained Resources
 
-This repository hosts the official PyTorch implementation of Splitwiser using PyTorch Mullti-Processing (MP) and NVIDIA Multi-Process Service (MPS) with Huggingface.
+This repository hosts the official PyTorch implementation of: [Splitwiser | Efficient LLM Inference with Constrained Resources](https://asad-aali.github.io/assets/pdf/paper_splitwiser.pdf).
 
 <b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Melissa Capo, Adney Cardoza<be>
 
@@ -11,6 +11,9 @@ This repository hosts the official PyTorch implementation of Splitwiser using Py
 ![](figs/splitwiser_design.png)
 
 </center>
+
+## Abstract
+*Efficient inference of LLMs remains a crucial challenge, with two main phases: a compute-intensive prompt computation and a memory-intensive token generation. Despite existing batching and scheduling techniques, token generation phases fail to fully utilize compute resources, especially when compared to prompt computation phases. To address these challenges, we propose Splitwiser, a methodology that splits the two phases of an LLM inference request onto the same GPU, thereby reducing overhead and improving memory access and cache utilization. By eliminating the need to transfer data across devices, Splitwiser aims to minimize network-related overheads. In this paper, we describe the basic structure of our proposed pipeline while sharing preliminary results and analysis. We implement our proposed multiprocessing design on two widely-used and independent LLM architectures: Huggingface and vLLM.*
 
 Code written on top of the official implementation:<br>
 [RadAdapt: Radiology Report Summarization via Lightweight Domain Adaptation of Large Language Models](https://arxiv.org/pdf/2305.01146.pdf)<br>
