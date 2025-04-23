@@ -2,9 +2,9 @@
 
 Official implementation for [Splitwiser: Efficient LM inference with constrained resources]().
 
-<b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Adney Cardoza, Melissa Capo<be>
+<b>Authored by: </b>[Asad Aali](https://asadaali.com/), Adney Cardoza, Melissa Capo<be>
 
-<b>Contact: </b>asad.aali@utexas.edu<br>
+<b>Contact: </b>asadaali@stanford.edu<br>
 
 <center>
 
