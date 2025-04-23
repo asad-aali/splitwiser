@@ -1,4 +1,4 @@
-# Splitwiser | Efficient LLM Inference with Constrained Resources
+# Splitwiser: Efficient LM inference with constrained resources
 
 Official PyTorch implementation for [Splitwiser | Efficient LLM Inference with Constrained Resources](https://asad-aali.github.io/assets/pdf/paper_splitwiser.pdf).
 
