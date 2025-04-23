@@ -1,4 +1,4 @@
-# Splitwiser: Efficient LM inference with constrained resources
+# Splitwiser | 2024
 
 Official implementation for [Splitwiser: Efficient LM inference with constrained resources]().
 
