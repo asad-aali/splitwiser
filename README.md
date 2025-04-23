@@ -1,6 +1,6 @@
 # Splitwiser: Efficient LM inference with constrained resources
 
-Official PyTorch implementation for [Splitwiser: Efficient LM inference with constrained resources]().
+Official implementation for [Splitwiser: Efficient LM inference with constrained resources]().
 
 <b>Authored by: </b>[Asad Aali](https://asad-aali.github.io/), Adney Cardoza, Melissa Capo<be>
 
