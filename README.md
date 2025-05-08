@@ -1,6 +1,6 @@
 # Splitwiser | 2024
 
-Official implementation for [Splitwiser: Efficient LM inference with constrained resources]().
+Official implementation for [Splitwiser: Efficient LM inference with constrained resources](https://www.arxiv.org/abs/2505.03763).
 
 <b>Authored by: </b>[Asad Aali](https://asadaali.com/), Adney Cardoza, Melissa Capo<be>
 
